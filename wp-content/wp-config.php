@@ -1,4 +1,4 @@
-$domain = 'back.sleepingcats.it';
+$domain = 'backwp.sleepingcats.it';
 
 define('WP_SITEURL', "{$domain}/wordpress");
 define('WP_HOME',"http:{$domain}");
